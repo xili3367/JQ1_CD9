@@ -15,5 +15,5 @@ densVis (https://github.com/hhcho/densvis/tree/master/densmap, v0.2.1)  \
 3. scATAC-seq datasets and related meta data of lung cancer and breast cancer cell line is available from GSE162798
 ### Script description
 1. for CD9 xenograft mouse scRNA-seq datasets after scPred assignment: assign_pp.ipynb
-2. for SUM149 dataset trajectory analysis: scvelo_pp.ipynb
+2. for SUM149 dataset trajectory analysis: scvelo_pp_score.ipynb
 3. for scATACseq datasets analysis: signac.R
